@@ -1,6 +1,6 @@
 data "aws_ami" "my_ami" {
   most_recent = true
-  name_regex  = "^DevSecOps"
+  name_regex  = "^Deepak-Das-Build-2025-11-02T17-43-10Z"
   owners      = ["861985335110"] # DevSecOps AWS Account ID
 }
 
